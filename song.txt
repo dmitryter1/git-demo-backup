@@ -8,3 +8,5 @@ bla bla bla
 бла бла бла
 
 123456
+
+GIT REVERT PRACTICE
