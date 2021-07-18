@@ -16,4 +16,8 @@ MODIFYING SONG.TXT FOR NON FF MERGE IN FEATURE
 
 123
 
+ok we need it
 feature in MAIN
+and also this
+feature in FEATURE
+
